@@ -31,5 +31,6 @@ x_data, y_data and subject_data merge both of the data sets.
 
 Here are the columns included in the output file:
 
-subject_id - The id of the experiment participant.
-activity_labels - The name of the activity that the measurements correspond to, like LAYING or WALKING.
+subject_id - The id of the participant.
+
+activity_labels - The name of the activity that the measurements correspond to
