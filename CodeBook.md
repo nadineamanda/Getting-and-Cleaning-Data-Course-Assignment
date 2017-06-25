@@ -26,3 +26,10 @@ independent tidy data set with the average of each variable for each activity an
 features contains the correct names for the x_data dataset
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the Human Activity Recognition Using Smartphones Data Set.
 x_data, y_data and subject_data merge both of the data sets.
+
+## Columns in output file
+
+Here are the columns included in the output file:
+
+subject_id - The id of the experiment participant.
+activity_labels - The name of the activity that the measurements correspond to, like LAYING or WALKING.
